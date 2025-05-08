@@ -46,6 +46,8 @@ function App() {
         </p>
         <p className="mt-4">contact me: davidl21[at]berkeley.edu</p>
         <h1 className="text-xl mt-12 font-bold">technologies</h1>
+        <h1 className="text-xl mt-12 font-bold">experience</h1>
+        <h1 className="text-xl mt-12 font-bold">projects</h1>
       </div>
     </div>
   );
